@@ -25,16 +25,6 @@ The project is divided into two major parts:
 * Restaurant chains vs average ratings
 * Country and Year filters for interactive analysis
 
-### Dashboard Screenshot
-
-```markdown
-![Zomato Dashboard](screenshots/zomato_dashboard.png)
-```
-
-> Place the dashboard image inside a folder named **`screenshots/`**
-
----
-
 ## 🤖 Machine Learning – Restaurant Rating Prediction
 
 ### Objective
